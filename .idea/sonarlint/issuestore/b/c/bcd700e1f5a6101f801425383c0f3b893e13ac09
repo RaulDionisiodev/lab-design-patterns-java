@@ -1,0 +1,9 @@
+
+w
+java:S1104	"UMake instancia a static final constant or non-public and provide accessors if needed.(¬ùÿùÿÿÿÿ8èÄäß1
+Q
+java:S1444	"/Make this "public static instancia" field final(¬ùÿùÿÿÿÿ8éÄäß1
+\
+java:S1118":Add a private constructor to hide the implicit public one.(ˆ“ÔÍûÿÿÿÿ8ïÄäß1
+U
+java:S2440	"3Remove this instantiation of "SingletonLazyHolder".(¬ùÿùÿÿÿÿ8ïÄäß1
