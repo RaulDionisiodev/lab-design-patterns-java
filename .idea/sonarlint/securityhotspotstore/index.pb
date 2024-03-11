@@ -1,12 +1,6 @@
 
 V
 &src/one/digitalinovation/gof/Main.java,1\4\1403ac2155ad0afd727bcf5b428c420154e40ab9
-_
-/src/one/digitalinovation/gof/SingletonLazy.java,a\5\a5054551aa1ba8a07ce353946e55ec025c36ac3a
-`
-0src/one/digitalinovation/gof/SingletonEager.java,a\c\ac7048ef471979b08d6b18f58727eaad2d2e5775
-e
-5src/one/digitalinovation/gof/SingletonLazyHolder.java,b\c\bcd700e1f5a6101f801425383c0f3b893e13ac09
 :
 
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
@@ -40,3 +34,9 @@ q
 Asrc/one/digitalinovation/gof/strategy/ComportamentoAgressivo.java,7\7\771c7a964c312534b2825c297eaa5368664023fb
 _
 /src/one/digitalinovation/gof/strategy/Robo.java,5\9\59af1187d18acae083fb70f3964f08d311f42acf
+_
+/src/one/digitalinovation/gof/facade/Facade.java,2\f\2fad81a140784ae9bade6fee21fc8e3b2404ce8a
+S
+#src/subsistema1/crm/CrmService.java,7\6\76511a1a354d25d12065d1c55ebfe2dff3c371d4
+O
+src/subsistema2/cep/CepApi.java,8\5\8584dd86f6a33a4ea16b9056e914788ece391f3e
